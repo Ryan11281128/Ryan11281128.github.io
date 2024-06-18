@@ -1,8 +1,11 @@
+/*套用樣式用*/
+
+
 h1 {
     color: #44baf0;    
 }
 
-/* class (優先級3)*/
+/*class (優先級3)*/
 .test {
     color: rebeccapurple;
 }
@@ -16,9 +19,21 @@ h1 {
 }
 
 h4{
-    color: blueviolet;
+    color: rgb(140, 37, 243);font-size: 1.5em;
 }
 
 span{
     font-size: 1.5em;color: red;
+}
+
+header{
+    font-size: 4em;background-color: aquamarine;color: blueviolet;
+}
+
+a{
+    font-size: 2em;
+}
+
+img{
+    width: 40%;height: 300px;object-fit: cover
 }
