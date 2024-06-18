@@ -2766,6 +2766,14 @@ input, select, textarea {
 
 			.tiles article h3 {
 				font-size: 1.75em;
+				color: #3428a0;
+				font-size: 2.2em;
+			}
+
+			.tiles article p {
+				font-size: 1.75em;
+				color: #9c28a0;
+				font-size: 1.11em;
 			}
 
 				.tiles article h3 a:hover {
