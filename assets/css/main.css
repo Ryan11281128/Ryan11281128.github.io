@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #330261;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1911,7 +1911,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(212, 212, 255, 0.035);
+		background: rgb(85, 37, 148);
 		border: none;
 		border-radius: 0;
 		color: inherit;
@@ -3957,4 +3957,7 @@ input, select, textarea {
 			transform: none;
 			opacity: 1;
 			visibility: visible;
+		}
+		#two {
+			background-color: rgb(87, 16, 168);  /* aaron: 修改首頁下方區塊背景顏色 */
 		}
