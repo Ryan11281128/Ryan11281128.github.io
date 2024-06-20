@@ -1784,7 +1784,7 @@ input, select, textarea {
 
 			header.major > :first-child:after {
 				content: '';
-				background-color: #387fcf;
+				background-color: #050505;
 				display: block;
 				height: 2px;
 				margin: 0.325em 0 0.5em 0;
@@ -2766,13 +2766,13 @@ input, select, textarea {
 
 			.tiles article h3 {
 				font-size: 1.75em;
-				color: #3428a0;
+				color: #050505;
 				font-size: 2.2em;
 			}
 
 			.tiles article p {
 				font-size: 1.75em;
-				color: #9c28a0;
+				color: #630b66;
 				font-size: 1.11em;
 			}
 
