@@ -3961,3 +3961,7 @@ input, select, textarea {
 		#two {
 			background-color: rgb(87, 16, 168);  /* aaron: 修改首頁下方區塊背景顏色 */
 		}
+
+		#banner.style11:after {
+			background-color: #0515fa;
+		}   /* 我自己新增的地中海 */
