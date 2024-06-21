@@ -3966,7 +3966,7 @@ input, select, textarea {
 			background-color: #0515fa;
 		}   /* 我自己新增的地中海 */
 
-		
+
 		.back-btn {
 			position: fixed; /* 將元素設定成固定位置，會固定在網頁畫面的某個地方 */
 	right: 50px;  /* 元素的位置要離畫面右邊多遠 */
@@ -3991,5 +3991,9 @@ input, select, textarea {
 	height: 100%;
 }
 
+.jjjj:hover{
+	color: #330261;
+	font-size: 1.5em;
+}
 
 		/* #為id .為class ../為上一層資料夾(左側那列) */
